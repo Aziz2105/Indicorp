@@ -1,0 +1,69 @@
+.services {
+  height: 800px;
+
+  .murodjon-header {
+    display: inline-block;
+    width: 461px;
+    height: 164px;
+    margin: 100px 300px;
+    .murodjon-business {
+      h1 {
+        font-family: "Montserrat";
+        font-style: normal;
+        font-weight: 700;
+        font-size: 40px;
+        line-height: 57px;
+        text-align: center;
+        color: #252b42;
+      }
+
+      p {
+        font-family: "Montserrat";
+        font-style: normal;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 20px;
+        text-align: center;
+        letter-spacing: 0.2px;
+        color: #737373;
+      }
+    }
+  }
+
+  .murodjon-body {
+    display: inline-block;
+    width: 100%;
+    height: 360px;
+
+    .murodjon-img {
+      display: inline-block;
+
+      img {
+        width: 497px;
+        height: 342px;
+      }
+    }
+
+    .murodjon-text {
+      display: inline-block;
+      width: 430px;
+      margin-left: 90px;
+
+      h1 {
+        display: inline-block;
+        width: 424px;
+        height: 89px;
+        color: #252b42;
+        font-size: 40px;
+      }
+
+      p {
+        display: inline-block;
+        width: 430px;
+        font-size: 14px;
+        padding-top: 10px;
+        padding-bottom: 50px;
+      }
+    }
+  }
+}
